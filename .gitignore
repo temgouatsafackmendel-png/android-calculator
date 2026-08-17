@@ -1,0 +1,20 @@
+# Gradle
+.gradle/
+build/
+
+# Configuration locale (chemin SDK propre à chaque machine)
+local.properties
+
+# IDE
+.idea/
+*.iml
+
+# Kotlin
+.kotlin/
+
+# Divers
+.DS_Store
+*.log
+
+# Fichiers de suivi d'outils internes (non liés au projet)
+.mimosa/

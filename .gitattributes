@@ -1,0 +1,4 @@
+# Normalisation des fins de ligne (comportement cohérent Windows/macOS/Linux)
+* text=auto
+*.bat text eol=crlf
+gradlew text eol=lf
